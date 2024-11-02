@@ -1,4 +1,4 @@
-# commuting well-being simulation
+# Commuting Well-being Simulation
 ## Introduction
 This repository contains a collection of Python scripts designed to analyze various aspects of urban commuting patterns, costs, and impacts on well-being. 
 
